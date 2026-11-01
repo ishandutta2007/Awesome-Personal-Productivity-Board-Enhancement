@@ -1,14 +1,23 @@
 # Awesome Personal Productivity & Board Enhancement
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Track SaaS & Open Source](https://img.shields.io/badge/Focus-Task%20Management%20%26%20Kanban-blue.svg)](#sector-overview--market-dynamics)
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Personal Productivity &amp; Board Enhancement Banner" width="100%" />
+</p>
 
-> A curated directory of top-tier SaaS platforms, board enhancement utilities, and self-hosted open-source software for personal productivity, task management, Getting Things Done (GTD), and Kanban workflows.
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="#sector-overview--market-dynamics"><img src="https://img.shields.io/badge/Focus-Task%20Management%20%26%20Kanban-blue.svg" alt="Track SaaS &amp; Open Source" /></a>
+  <a href="http://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg" alt="License: CC0-1.0" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+> 🚀 A curated directory of top-tier SaaS platforms, board enhancement utilities, and self-hosted open-source software for personal productivity, task management, Getting Things Done (GTD), and Kanban workflows.
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics
 
 The global personal productivity and collaborative work management software market is estimated at **$71B–$81B in 2024–2025**, projected to grow at an aggressive **14% CAGR** towards 2030, driven by hybrid work patterns, AI-assisted execution, and local-first data ownership. 
 
@@ -16,24 +25,26 @@ The sector is **moderately fragmented**: while massive hyperscalers and incumben
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS & Hosted Productivity Platforms](#saas--hosted-productivity-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-  - [Full Personal Productivity Suites & Boards (Ranked by Stars)](#full-personal-productivity-suites--boards-ranked-by-stars)
-  - [Specialized Board Extensions & Tools](#specialized-board-extensions--tools)
-- [How to Choose Your Productivity Stack](#how-to-choose-your-productivity-stack)
-- [How to Contribute](#how-to-contribute)
-- [License](#license)
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Productivity Platforms](#️-saas--hosted-productivity-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+  - [🏆 Full Personal Productivity Suites & Boards (Ranked by Stars)](#-full-personal-productivity-suites--boards-ranked-by-stars)
+  - [🧩 Specialized Board Extensions & Tools](#-specialized-board-extensions--tools)
+- [🎯 How to Choose Your Productivity Stack](#-how-to-choose-your-productivity-stack)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#star-history)
+- [📜 License](#-license)
 
 ---
 
-## SaaS & Hosted Productivity Platforms
+## ☁️ SaaS & Hosted Productivity Platforms
 
 Curated list of commercial SaaS task managers, board systems, and daily planning tools. Ranked by **Company Size / Valuation (Descending)**.
 
-| Platform | Starting Tier Price | Free Tier / Trial Limits | Company Valuation / Revenue Est. | Description & Key Strengths |
+| 🏷️ Platform | 💵 Starting Tier Price | 🎁 Free Tier / Trial Limits | 🏢 Company Valuation / Revenue Est. | 📝 Description & Key Strengths |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Microsoft To Do](https://to-do.office.com/)** | $6.00/user/mo (Microsoft 365 Business Basic for full business suite) | Free forever (100% free with any consumer Microsoft account; includes unlimited lists and sync) | ~$3.1 Trillion Market Cap / $245B+ Annual Revenue | Deeply integrated personal task manager; syncs with Outlook Tasks, Flagged Emails, and Microsoft 365 ecosystem. |
 | **[Trello](https://trello.com/)** | $5.00/user/mo (Standard tier billed annually) | Free forever: up to 10 boards per workspace, unlimited cards, unlimited Power-Ups, 10MB per file attachment | ~$45 Billion Market Cap (Parent: Atlassian) / $4.4B+ Revenue | The pioneer of modern digital Kanban boards; flexible cards, checklist templates, and custom Power-Ups. |
@@ -48,11 +59,11 @@ Curated list of commercial SaaS task managers, board systems, and daily planning
 
 ---
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 Explore the finest self-hosted and local-first open-source alternatives. Ranked by **GitHub Stars (Descending)**.
 
-### Full Personal Productivity Suites & Boards (Ranked by Stars)
+### 🏆 Full Personal Productivity Suites & Boards (Ranked by Stars)
 
 - **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
   *Open-source Notion and Trello alternative built with Flutter and Rust.* Provides complete local-first data ownership, offline-native architecture, Kanban boards, table views, rich-text document editing, and end-to-end encryption.
@@ -110,15 +121,15 @@ Explore the finest self-hosted and local-first open-source alternatives. Ranked 
 
 ---
 
-### Specialized Board Extensions & Tools
+### 🧩 Specialized Board Extensions & Tools
 
-- **[Kanux](https://github.com/)** — Markdown-backed card organization for PKM environments with custom card IDs, incremental code prefixes, and board themes.
-- **[Jotter](https://pypi.org/project/jotter-app/)** — Local-first task manager with Git sync, Eisenhower matrix views, and MCP AI server support.
-- **[Seeder](https://github.com/)** — Cloudflare Workers-based project manager with Kanban views and MCP server capability.
+- **[Kanux](https://github.com/)** — 📝 Markdown-backed card organization for PKM environments with custom card IDs, incremental code prefixes, and board themes.
+- **[Jotter](https://pypi.org/project/jotter-app/)** — ⚡ Local-first task manager with Git sync, Eisenhower matrix views, and MCP AI server support.
+- **[Seeder](https://github.com/)** — ☁️ Cloudflare Workers-based project manager with Kanban views and MCP server capability.
 
 ---
 
-## How to Choose Your Productivity Stack
+## 🎯 How to Choose Your Productivity Stack
 
 ```mermaid
 flowchart TD
@@ -137,8 +148,9 @@ flowchart TD
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
+Contributions are warmly welcomed! 🌟
 1. Fork this repository.
 2. Create a new branch: `git checkout -b feature/add-tool`.
 3. Add or update tool listings following the established table / star-badge formatting.
@@ -147,6 +159,24 @@ flowchart TD
 
 ---
 
-## License
+## 💖 Support & Sponsorship
+
+Thank you so much for using and exploring this curated list! ✨
+
+If you find this ecosystem guide helpful, please consider supporting the project:
+- ⭐ **Star** this repository on GitHub to boost visibility
+- 🍴 **Fork** and contribute new tools or updates
+- 📢 **Share** with friends, colleagues, and productivity communities
+- ☕ **Buy a coffee / Sponsor**: Support ongoing maintenance and curation on the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Personal-Productivity-Board-Enhancement&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Personal-Productivity-Board-Enhancement&type=date&legend=top-left)
+
+---
+
+## 📜 License
 
 To the extent possible under law, the maintainers and contributors have waived all copyright and related or neighboring rights to this work under [CC0 1.0 Universal (Public Domain Dedication)](http://creativecommons.org/publicdomain/zero/1.0/).

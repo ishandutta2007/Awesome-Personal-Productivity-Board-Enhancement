@@ -61,62 +61,62 @@ Curated list of commercial SaaS task managers, board systems, and daily planning
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the finest self-hosted and local-first open-source alternatives. Ranked by **GitHub Stars (Descending)**.
+Explore the finest self-hosted and local-first open-source alternatives. Ranked by **GitHub_Stars (Descending)**.
 
 ### 🏆 Full Personal Productivity Suites & Boards (Ranked by Stars)
 
-- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
+- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
   *Open-source Notion and Trello alternative built with Flutter and Rust.* Provides complete local-first data ownership, offline-native architecture, Kanban boards, table views, rich-text document editing, and end-to-end encryption.
 
-- **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
+- **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub_Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
   *Next-generation privacy-first workspace blending docs, whiteboards, and personal task boards.* Supports shape drawing, multimodal mind mapping, and Kanban-style card groupings in a single local-first canvas.
 
-- **[Joplin](https://github.com/laurent22/joplin)** [![GitHub stars](https://img.shields.io/github/stars/laurent22/joplin?style=social&color=white)](https://github.com/laurent22/joplin/stargazers)  
+- **[Joplin](https://github.com/laurent22/joplin)** [![GitHub_Stars](https://img.shields.io/github/stars/laurent22/joplin?style=social&color=white)](https://github.com/laurent22/joplin/stargazers)  
   *Secure, open-source note-taking and to-do application with end-to-end encryption (E2EE).* Features markdown support, task alarms, geolocations, web clipper, and multi-device synchronization via Nextcloud, Dropbox, or S3.
 
-- **[Logseq](https://github.com/logseq/logseq)** [![GitHub stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers)  
+- **[Logseq](https://github.com/logseq/logseq)** [![GitHub_Stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers)  
   *Privacy-first, local-first knowledge base and task outliner.* Employs Markdown and Org-mode plain text files with bidirectional linking, built-in task states (`TODO`/`DOING`/`DONE`), scheduled queries, and flashcards.
 
-- **[Trilium Notes](https://github.com/zadam/trilium)** [![GitHub stars](https://img.shields.io/github/stars/zadam/trilium?style=social&color=white)](https://github.com/zadam/trilium/stargazers)  
+- **[Trilium Notes](https://github.com/zadam/trilium)** [![GitHub_Stars](https://img.shields.io/github/stars/zadam/trilium?style=social&color=white)](https://github.com/zadam/trilium/stargazers)  
   *Hierarchical personal knowledge base and productivity system.* Built for personal knowledge graphs with task lists, scripting engine, revision history, encrypted subtrees, and self-hosted server sync.
 
-- **[Super Productivity](https://github.com/super-productivity/super-productivity)** [![GitHub stars](https://img.shields.io/github/stars/super-productivity/super-productivity?style=social&color=white)](https://github.com/super-productivity/super-productivity/stargazers)  
+- **[Super Productivity](https://github.com/super-productivity/super-productivity)** [![GitHub_Stars](https://img.shields.io/github/stars/super-productivity/super-productivity?style=social&color=white)](https://github.com/super-productivity/super-productivity/stargazers)  
   *Advanced personal to-do list and time tracker with integrations.* Local-first, open-source application featuring time tracking, Pomodoro timer, break reminders, and direct sync with Jira, GitHub, and GitLab.
 
-- **[Wekan](https://github.com/wekan/wekan)** [![GitHub stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)  
+- **[Wekan](https://github.com/wekan/wekan)** [![GitHub_Stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)  
   *Mature, self-hosted open-source Kanban board built on Meteor.* Offers granular permissions, swimlanes, card subtasks, email notifications, Docker/Snap installation, and seamless Trello export/import capabilities.
 
-- **[Habitica](https://github.com/HabitRPG/habitica)** [![GitHub stars](https://img.shields.io/github/stars/HabitRPG/habitica?style=social&color=white)](https://github.com/HabitRPG/habitica/stargazers)  
+- **[Habitica](https://github.com/HabitRPG/habitica)** [![GitHub_Stars](https://img.shields.io/github/stars/HabitRPG/habitica?style=social&color=white)](https://github.com/HabitRPG/habitica/stargazers)  
   *Open-source habit-tracking and productivity app governed by RPG game mechanics.* Self-hostable web and mobile codebase (Node.js/Vue/MongoDB) supporting parties, boss battles, and inventory rewards for real-world habit completion.
 
-- **[Planka](https://github.com/plankanban/planka)** [![GitHub stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)  
+- **[Planka](https://github.com/plankanban/planka)** [![GitHub_Stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)  
   *Modern, elegant, self-hosted real-time Kanban board.* Built with React and Redux, featuring subtasks, file attachments, custom background colors, user mentions, and simple Docker Compose deployment.
 
-- **[Leantime](https://github.com/leantime/leantime)** [![GitHub stars](https://img.shields.io/github/stars/leantime/leantime?style=social&color=white)](https://github.com/leantime/leantime/stargazers)  
+- **[Leantime](https://github.com/leantime/leantime)** [![GitHub_Stars](https://img.shields.io/github/stars/leantime/leantime?style=social&color=white)](https://github.com/leantime/leantime/stargazers)  
   *Open-source strategic work and project management system designed for ADHD and neurodiverse minds.* Combines Kanban boards, milestone Gantt roadmaps, idea validation boards, and task time tracking.
 
-- **[Kanboard](https://github.com/fguillot/kanboard)** [![GitHub stars](https://img.shields.io/github/stars/fguillot/kanboard?style=social&color=white)](https://github.com/fguillot/kanboard/stargazers)  
+- **[Kanboard](https://github.com/fguillot/kanboard)** [![GitHub_Stars](https://img.shields.io/github/stars/fguillot/kanboard?style=social&color=white)](https://github.com/fguillot/kanboard/stargazers)  
   *Lightweight, minimalistic self-hosted Kanban board written in PHP.* Designed for speed, minimal server resource footprint, automated actions, subtask tracking, and extensive plugin support.
 
-- **[Vikunja](https://github.com/go-vikunja/vikunja)** [![GitHub stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)  
+- **[Vikunja](https://github.com/go-vikunja/vikunja)** [![GitHub_Stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)  
   *Self-hosted all-in-one to-do and task management application.* Features Kanban boards, Gantt charts, list views, CalDAV synchronization, subtasks, task reminders, and automated recurrence.
 
-- **[Obsidian Kanban](https://github.com/mgmeyers/obsidian-kanban)** [![GitHub stars](https://img.shields.io/github/stars/mgmeyers/obsidian-kanban?style=social&color=white)](https://github.com/mgmeyers/obsidian-kanban/stargazers)  
+- **[Obsidian Kanban](https://github.com/mgmeyers/obsidian-kanban)** [![GitHub_Stars](https://img.shields.io/github/stars/mgmeyers/obsidian-kanban?style=social&color=white)](https://github.com/mgmeyers/obsidian-kanban/stargazers)  
   *Markdown-backed Kanban board plugin for Obsidian.* Transforms Markdown files into interactive drag-and-drop boards without proprietary database locks; integrates with your personal PKM vault.
 
-- **[Restyaboard](https://github.com/RestyaPlatform/board)** [![GitHub stars](https://img.shields.io/github/stars/RestyaPlatform/board?style=social&color=white)](https://github.com/RestyaPlatform/board/stargazers)  
+- **[Restyaboard](https://github.com/RestyaPlatform/board)** [![GitHub_Stars](https://img.shields.io/github/stars/RestyaPlatform/board?style=social&color=white)](https://github.com/RestyaPlatform/board/stargazers)  
   *Enterprise-ready open-source Kanban and work organization platform.* Provides Trello import, card chat, calendar views, offline access, and customizable boards with REST APIs.
 
-- **[Werkyn](https://github.com/rackstead/werkyn)** [![GitHub stars](https://img.shields.io/github/stars/rackstead/werkyn?style=social&color=white)](https://github.com/rackstead/werkyn/stargazers)  
+- **[Werkyn](https://github.com/rackstead/werkyn)** [![GitHub_Stars](https://img.shields.io/github/stars/rackstead/werkyn?style=social&color=white)](https://github.com/rackstead/werkyn/stargazers)  
   *Open-source project collaboration platform (React 19 / PostgreSQL).* Features Kanban boards, BlockNote wiki docs, and real-time WebSocket sync (development preview).
 
-- **[NeumanOS](https://github.com/travisjneuman/neumanos)** [![GitHub stars](https://img.shields.io/github/stars/travisjneuman/neumanos?style=social&color=white)](https://github.com/travisjneuman/neumanos/stargazers)  
+- **[NeumanOS](https://github.com/travisjneuman/neumanos)** [![GitHub_Stars](https://img.shields.io/github/stars/travisjneuman/neumanos?style=social&color=white)](https://github.com/travisjneuman/neumanos/stargazers)  
   *Privacy-first local-only personal operating system.* Built with React 19 and IndexedDB; integrates Kanban boards, habit streaks, ICS calendar sync, time tracking, and bring-your-own-key AI terminal.
 
-- **[Kan-ductor](https://github.com/pdurlej/kan)** [![GitHub stars](https://img.shields.io/github/stars/pdurlej/kan?style=social&color=white)](https://github.com/pdurlej/kan/stargazers)  
+- **[Kan-ductor](https://github.com/pdurlej/kan)** [![GitHub_Stars](https://img.shields.io/github/stars/pdurlej/kan?style=social&color=white)](https://github.com/pdurlej/kan/stargazers)  
   *Focused AGPLv3 Trello alternative.* Self-hostable via Docker Compose with board templates, visibility controls, Trello JSON import, and activity audit logs.
 
-- **[Atlantisboard](https://github.com/walster001/atlantisboard)** [![GitHub stars](https://img.shields.io/github/stars/walster001/atlantisboard?style=social&color=white)](https://github.com/walster001/atlantisboard/stargazers)  
+- **[Atlantisboard](https://github.com/walster001/atlantisboard)** [![GitHub_Stars](https://img.shields.io/github/stars/walster001/atlantisboard?style=social&color=white)](https://github.com/walster001/atlantisboard/stargazers)  
   *Self-hosted Kanban board (Bun / React / MongoDB).* Delivers real-time WebSocket collaboration, list permissions, checklists, and JSON board import.
 
 ---
